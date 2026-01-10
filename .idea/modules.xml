@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Google Doc/Google Doc.iml" filepath="$PROJECT_DIR$/Google Doc/Google Doc.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/System Design.iml" filepath="$PROJECT_DIR$/.idea/System Design.iml" />
