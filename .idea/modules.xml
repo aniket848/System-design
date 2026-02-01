@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter Design pattern/Adapter Design pattern.iml" filepath="$PROJECT_DIR$/Adapter Design pattern/Adapter Design pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command Design Pattern/Command Design Pattern.iml" filepath="$PROJECT_DIR$/Command Design Pattern/Command Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite Design pattern/Composite Design pattern.iml" filepath="$PROJECT_DIR$/Composite Design pattern/Composite Design pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator Design pattern/Decorator Design pattern.iml" filepath="$PROJECT_DIR$/Decorator Design pattern/Decorator Design pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Google Doc/Google Doc.iml" filepath="$PROJECT_DIR$/Google Doc/Google Doc.iml" />
