@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spotify/Spotify.iml" filepath="$PROJECT_DIR$/Spotify/Spotify.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/System Design.iml" filepath="$PROJECT_DIR$/.idea/System Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zepto/Zepto.iml" filepath="$PROJECT_DIR$/Zepto/Zepto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zomato/Zomato.iml" filepath="$PROJECT_DIR$/Zomato/Zomato.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonClass/singletonClass.iml" filepath="$PROJECT_DIR$/singletonClass/singletonClass.iml" />
     </modules>
