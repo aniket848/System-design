@@ -11,6 +11,10 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>mediator-design-pattern</artifactId>
+    <artifactId>google-doc</artifactId>
+
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+    </build>
 
 </project>

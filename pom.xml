@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>lld-practice</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>LLD Practice</name>
+    <description>
+        Low-level design practice projects. Each sub-directory is an independent,
+        self-contained Maven module that can be built and run on its own.
+    </description>
+
+    <properties>
+        <maven.compiler.release>23</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <modules>
+        <module>Adapter Design pattern</module>
+        <module>Bridge design pattern</module>
+        <module>Builder Design Pattern</module>
+        <module>Chain Of Responsibility Design pattern</module>
+        <module>Command Design Pattern</module>
+        <module>Composite Design pattern</module>
+        <module>Coupon design pattern</module>
+        <module>Decorator Design pattern</module>
+        <module>FactoryDesignPattern</module>
+        <module>Google Doc</module>
+        <module>Mediator_Design_Pattern</module>
+        <module>NotificationService</module>
+        <module>Observer Design Pattern</module>
+        <module>Prototype_Design_Pattern</module>
+        <module>Spotify</module>
+        <module>State Design Pattern</module>
+        <module>StrategyDesignPattern</module>
+        <module>Tic-Tac-Toe</module>
+        <module>Tinder</module>
+        <module>Visitor_design_pattern</module>
+        <module>Zepto</module>
+        <module>Zomato</module>
+        <module>singletonClass</module>
+    </modules>
+
+</project>

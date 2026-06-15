@@ -11,6 +11,10 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>mediator-design-pattern</artifactId>
+    <artifactId>tinder</artifactId>
+
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+    </build>
 
 </project>

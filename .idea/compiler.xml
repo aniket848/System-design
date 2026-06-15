@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Mediator_Design_Pattern" />
+        <module name="Visitor_design_pattern" />
+        <module name="Prototype_Design_Pattern" />
       </profile>
     </annotationProcessing>
   </component>

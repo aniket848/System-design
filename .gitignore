@@ -1,0 +1,9 @@
+# Maven build output
+target/
+
+# IntelliJ build output
+out/
+
+# OS / editor noise
+.DS_Store
+*.iml
