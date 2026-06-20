@@ -44,6 +44,8 @@
         <module>Zepto</module>
         <module>Zomato</module>
         <module>singletonClass</module>
+        <module>test</module>
+        <module>RateLimitter</module>
     </modules>
 
 </project>

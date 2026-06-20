@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Adapter Design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Adapter Design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bridge design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bridge design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Builder Design Pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Builder Design Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chain Of Responsibility Design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chain Of Responsibility Design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Command Design Pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Command Design Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Composite Design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Composite Design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Coupon design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Coupon design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Decorator Design pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Decorator Design pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryDesignPattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Google Doc/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Google Doc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Mediator_Design_Pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Mediator_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NotificationService/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NotificationService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer Design Pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer Design Pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Prototype_Design_Pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Prototype_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RateLimitter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RateLimitter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spotify/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spotify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State Design Pattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State Design Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StrategyDesignPattern/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StrategyDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tic-Tac-Toe/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tic-Tac-Toe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tinder/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tinder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Visitor_design_pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Visitor_design_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zepto/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zepto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zomato/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zomato/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singletonClass/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singletonClass/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/resources" charset="UTF-8" />
   </component>
 </project>

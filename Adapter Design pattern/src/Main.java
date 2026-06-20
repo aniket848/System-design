@@ -58,7 +58,7 @@ public class Main {
          Report report = new getJSONDataAdapter(xmlData);
 
          Client client = new Client();
-         String rawData = "Aniket:Bareilly";
+         String rawData = "Aniket:Singapore";
          String jsonData = client.getReport(rawData,report);
          System.out.println("jsonData = "+jsonData);
 

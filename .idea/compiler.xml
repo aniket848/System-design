@@ -6,9 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Mediator_Design_Pattern" />
+        <module name="adapter-design-pattern" />
+        <module name="bridge-design-pattern" />
+        <module name="zepto" />
+        <module name="builder-design-pattern" />
+        <module name="google-doc" />
         <module name="Visitor_design_pattern" />
+        <module name="notification-service" />
+        <module name="command-design-pattern" />
+        <module name="decorator-design-pattern" />
+        <module name="observer-design-pattern" />
+        <module name="strategy-design-pattern" />
+        <module name="test" />
+        <module name="factory-design-pattern" />
+        <module name="spotify" />
         <module name="Prototype_Design_Pattern" />
+        <module name="state-design-pattern" />
+        <module name="composite-design-pattern" />
+        <module name="Mediator_Design_Pattern" />
+        <module name="coupon-design-pattern" />
+        <module name="singleton-class" />
+        <module name="tinder" />
+        <module name="chain-of-responsibility-design-pattern" />
+        <module name="tic-tac-toe" />
+        <module name="zomato" />
+        <module name="RateLimitter" />
       </profile>
     </annotationProcessing>
   </component>
