@@ -30,6 +30,7 @@
         <module name="chain-of-responsibility-design-pattern" />
         <module name="tic-tac-toe" />
         <module name="zomato" />
+        <module name="ATM" />
         <module name="RateLimitter" />
       </profile>
     </annotationProcessing>

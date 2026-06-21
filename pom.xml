@@ -46,6 +46,7 @@
         <module>singletonClass</module>
         <module>test</module>
         <module>RateLimitter</module>
+        <module>ATM</module>
     </modules>
 
 </project>
