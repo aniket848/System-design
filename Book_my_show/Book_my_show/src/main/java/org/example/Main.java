@@ -7,6 +7,8 @@ import org.example.Service.BookingService;
 import org.example.Service.MovieService;
 
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
@@ -84,5 +86,35 @@ public class Main {
         bookingService.confirmBooking(bookingId4, PaymentType.CARD);
         bookingService.confirmBooking(bookingId5, PaymentType.CARD);
 
+
+
+        System.out.println("============== BOOKING FAILED USE CASE TWO USERS SELECTING SAME SEAT AT SAME TIME ============");
+
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
+
+        ExecutorService executor = Executors.newFixedThreadPool(2);
+
+        executor.submit(()->{
+            String bookingId6 = bookingService.createBooking(user1, theatre,show,screen,
+                    List.of(seat4.getSeatId()));
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+            bookingService.confirmBooking(bookingId6, PaymentType.UPI);
+        });
+
+        executor.submit(()->{
+            String bookingId7 = bookingService.createBooking(user2, theatre,show,screen,
+                    List.of(seat4.getSeatId()));
+            bookingService.confirmBooking(bookingId7, PaymentType.CARD);
+        });
+
+
+        executor.shutdown();
     }
 }
