@@ -13,6 +13,8 @@
         <module name="google-doc" />
         <module name="Visitor_design_pattern" />
         <module name="notification-service" />
+        <module name="visitor-design-pattern" />
+        <module name="Book_my_show" />
         <module name="command-design-pattern" />
         <module name="decorator-design-pattern" />
         <module name="observer-design-pattern" />
@@ -20,10 +22,12 @@
         <module name="test" />
         <module name="factory-design-pattern" />
         <module name="spotify" />
+        <module name="prototype-design-pattern" />
         <module name="Prototype_Design_Pattern" />
         <module name="state-design-pattern" />
         <module name="composite-design-pattern" />
         <module name="Mediator_Design_Pattern" />
+        <module name="mediator-design-pattern" />
         <module name="coupon-design-pattern" />
         <module name="singleton-class" />
         <module name="tinder" />
@@ -34,5 +38,9 @@
         <module name="RateLimitter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BookMyShow" target="23" />
+      <module name="untitled" target="23" />
+    </bytecodeTargetLevel>
   </component>
 </project>
