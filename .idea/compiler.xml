@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="adapter-design-pattern" />
         <module name="bridge-design-pattern" />
+        <module name="Splitwise" />
         <module name="zepto" />
         <module name="builder-design-pattern" />
         <module name="google-doc" />

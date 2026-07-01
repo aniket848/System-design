@@ -47,9 +47,8 @@
         <module>test</module>
         <module>RateLimitter</module>
         <module>ATM</module>
-        <module>BookMyShow/BookMyShow</module>
-        <module>BookMyShow/BookMyShow</module>
         <module>Book_my_show/Book_my_show</module>
+        <module>Splitwise</module>
     </modules>
 
 </project>
