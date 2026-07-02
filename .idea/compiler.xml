@@ -16,6 +16,7 @@
         <module name="notification-service" />
         <module name="visitor-design-pattern" />
         <module name="Book_my_show" />
+        <module name="Doctor_Appointment" />
         <module name="command-design-pattern" />
         <module name="decorator-design-pattern" />
         <module name="observer-design-pattern" />

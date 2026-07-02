@@ -49,6 +49,7 @@
         <module>ATM</module>
         <module>Book_my_show/Book_my_show</module>
         <module>Splitwise</module>
+        <module>Doctor_Appointment</module>
     </modules>
 
 </project>
