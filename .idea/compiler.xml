@@ -18,6 +18,7 @@
         <module name="Book_my_show" />
         <module name="Doctor_Appointment" />
         <module name="command-design-pattern" />
+        <module name="Car_Rental" />
         <module name="decorator-design-pattern" />
         <module name="observer-design-pattern" />
         <module name="strategy-design-pattern" />
